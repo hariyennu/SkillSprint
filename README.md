@@ -46,15 +46,6 @@ Many beginners struggle with:
 - 🎨 Black & White modern theme  
 - ✅ Fully responsive layout
 
----
-
-## 📸 Screenshots
-
-| Hero Section | Top Courses | Project Ideas |
-|--------------|-------------|---------------|
-| ![hero](https://raw.githubusercontent.com/hariyennu/SkillSprint/main/screens/hero.png) | ![courses](https://raw.githubusercontent.com/hariyennu/SkillSprint/main/screens/courses.png) | ![projects](https://raw.githubusercontent.com/hariyennu/SkillSprint/main/screens/projects.png) |
-
----
 
 ## 🔮 What's Next?
 
